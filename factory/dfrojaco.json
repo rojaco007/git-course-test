@@ -1,0 +1,9 @@
+{
+	"name": "dfrojaco",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7847dcf2-972c-4896-8707-7bdb670e9120",
+		"tenantId": "c0ad1875-e473-44af-a007-6c7c88bdb65a"
+	}
+}
